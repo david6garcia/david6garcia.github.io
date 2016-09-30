@@ -1,5 +1,5 @@
 ---
-layout: curriculo.html
+layout: curriculo
 title: About
 permalink: /about/
 ---
