@@ -6,4 +6,4 @@ tagline: david6garcia.github.io
 ---
 # **Página Principal**
 
-**[Curriculum Vitae]**(about)
+**[Curriculum Vitae](about)**
