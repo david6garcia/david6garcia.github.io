@@ -8,4 +8,4 @@ tagline: david6garcia.github.io
 
 **[Curriculum Vitae](about)**
 
-![Con titulo](images/mario.jpg "DAVID6GARCIA")
+![David6garcia](images/mario.jpg)
