@@ -30,11 +30,14 @@ permalink: /about/
 * Programación en Ruby
 
 ## **Información adicional**
+
 ### Interes personales
 * Mejorar mis dotes de programador
 * Contribuir a la creación de un Software
+
 ### Interes laborales
 * Ocupar un alto cargo dentro de la empresa.
+
 ### Valores personales
 
 ### Permiso de conducir B y disponibilidad de vehículo propio
