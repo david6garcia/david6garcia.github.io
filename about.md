@@ -1,7 +1,7 @@
 ---
 layout: index
-title: About
-permalink: /about/
+title: Curriculum Vitae
+permalink: /curriculum/
 ---
 
 ## **Datos Personales**
