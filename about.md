@@ -24,7 +24,7 @@ permalink: /about/
 
 | Idioma | Nivel |
 | ---------- | ---------- |
-| Inglés   | C1   |
+| chino   | C1   |
 | Alemán   | B2   |
 | Francés   | B1   |
 
