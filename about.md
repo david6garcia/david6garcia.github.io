@@ -21,13 +21,11 @@ permalink: /about/
 * 68 años en Microsoft España
 
 ## **Idiomas**
-
 | Idioma | Nivel |
-| ---------- | ---------- |
+| :------- | :------: |
 | Inglés   | C1   |
 | Alemán   | B2   |
 | Francés   | B1   |
-
 
 ## **Cursos**
 * Programación en Java
