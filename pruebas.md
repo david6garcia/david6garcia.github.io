@@ -1,4 +1,9 @@
+---
+layout: index
 
+title: Pruebas
+tagline: pruebas
+---
 
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
