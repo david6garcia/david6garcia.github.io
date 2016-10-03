@@ -1,5 +1,5 @@
 ---
-layout: curriculo
+layout: index
 title: About
 permalink: /about/
 ---
