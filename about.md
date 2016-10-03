@@ -22,7 +22,7 @@ permalink: /about/
 
 ## **Idiomas**
 | Idioma | Nivel |
-| ------- | ------ |
+| ---------- | ---------- |
 | Inglés   | C1   |
 | Alemán   | B2   |
 | Francés   | B1   |
