@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Con titulo](images/mario.jpg "DAVID6GARCIA")
+
 ## **Datos Personales**
 * **Nombre:** Pepito
 * **Apellidos:** Grillo
