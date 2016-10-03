@@ -22,11 +22,11 @@ permalink: /about/
 
 ## **Idiomas**
 
-Idiomas | Nivel 
--- | -- 
-Inglés | C1 
-Alemán | B2 
-Francés | B1
+Idiomas   |   Nivel 
+--   |   -- 
+Inglés   |   C1 
+Alemán   |   B2 
+Francés   |   B1
 
 
 ## **Cursos**
