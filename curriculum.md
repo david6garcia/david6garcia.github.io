@@ -4,6 +4,9 @@ title: Curriculum Vitae
 permalink: /curriculum/
 ---
 
+
+
+
 ## **Datos Personales**
 * **Nombre:** Pepito
 * **Apellidos:** Grillo
