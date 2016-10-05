@@ -10,4 +10,4 @@ tagline: david6garcia.github.io
 
 **[Pruebas](pruebas)**
 
-![David6garcia](images/mario.jpg)
+![David6garcia](images/index.jpeg)
