@@ -5,9 +5,9 @@ permalink: /curriculum/
 ---
 
 
-**[Página Principal]()**
+**[Página Principal](#)**
 
-**[Pruebas](pruebas)**
+**[Pruebas](#/pruebas)**
 
 
 ## **Datos Personales**
