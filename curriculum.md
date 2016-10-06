@@ -5,9 +5,9 @@ permalink: /curriculum/
 ---
 
 
-**[Página Principal](#)**
+**[Página Principal](https://david6garcia.github.io/)**
 
-**[Pruebas](#/pruebas)**
+**[Pruebas](https://david6garcia.github.io/pruebas)**
 
 
 ## **Datos Personales**
