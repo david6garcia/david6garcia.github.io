@@ -5,10 +5,6 @@ permalink: /curriculum/
 ---
 
 
-**[Página Principal](https://david6garcia.github.io/)**
-
-**[Pruebas](https://david6garcia.github.io/pruebas)**
-
 
 ## **Datos Personales**
 * **Nombre:** Pepito
