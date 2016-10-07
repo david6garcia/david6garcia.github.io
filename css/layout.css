@@ -11,10 +11,9 @@ body {
 
 .container {
   position: relative;
-  top: 100px;
-  left: 50px;
+  top: 20px;
+  left: 10px;
   text-align: left;
-  transform: translate(-50%, -50%);
 }
 
 a {
