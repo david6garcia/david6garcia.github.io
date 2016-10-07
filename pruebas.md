@@ -5,9 +5,6 @@ title: Pruebas
 tagline: pruebas
 ---
 
-**[Página Principal](https://david6garcia.github.io/)**
-
-**[Currículum](https://david6garcia.github.io/curriculum)**
 
 # Título 1
 
